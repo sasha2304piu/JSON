@@ -1,3 +1,7 @@
-{ "firstName" : "Alexey",
-"lastName" : "Safronenko",
-"age" : 41 }
+{
+    "firstName": "Alexey",
+    "lastName": "Safronenko",
+    "age": 41,
+    "home_animals": 1,
+    "salary": 3000,
+}
